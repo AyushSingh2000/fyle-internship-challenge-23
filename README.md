@@ -1,8 +1,6 @@
 # Fyle Frontend development challenge
 Challenge outline: Github Repositories listing page
 
-![NoteDrop Home Page](https://i.imgur.com/5nngZgr.png)
-
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
@@ -91,6 +89,6 @@ The assignment uses the following external packages to enhance functionality and
 Please make sure to install these packages during the installation process, as mentioned above.
 
 For more information or any assistance, please contact: \
-Mail: mishrachandan.dd@gmail.com \
-Website: https://mchandan.me/
+Mail: awesomeayushawesome@gmail.com \
+
 
