@@ -21,7 +21,7 @@ Before running the application and unit tests, make sure you have the following 
 1. Clone the GitHub repository to your local machine:
 
    ```
-   git clone https://github.com/dontdude/fyle-internship-challenge-23.git
+   git clone https://github.com/AyushSingh2000/fyle-internship-challenge-23.git
    ```
 
 2. Navigate to the project's root directory:
